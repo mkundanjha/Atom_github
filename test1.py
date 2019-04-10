@@ -6,3 +6,4 @@ for i in range(0,T):
     list.append(sum)
 for i in list:
     print(i)
+print("hello")
